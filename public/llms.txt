@@ -1,0 +1,22 @@
+// Flysound - AI-Powered Hearing Aids
+// https://www.fly.clawpod.net
+
+This landing page showcases Flysound hearing aids.
+
+## Product
+- Ultra-discreet hearing aids with AI-powered noise reduction
+- Rechargeable with all-day battery life
+- Bluetooth connectivity for phone and TV
+- Affordable at $299 per pair
+
+## Features
+- Virtually invisible design
+- AI-powered clarity for speech separation
+- 16+ hours of comfortable wear
+- 45-day risk-free trial
+- 1-year warranty
+- Lifetime support
+
+## Contact
+- Email: support@flysound.com
+- Phone: 1-800-FLYSOUND
